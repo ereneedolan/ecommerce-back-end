@@ -2,17 +2,11 @@
 
 ## Description
 
-I worked on this project to develop mu skills as a backend developer.
+I worked on this project to develop mu skills as a backend developer in using sequelize and using routes and models. A key to demonstrating this code was executing through insomnia where you can see the requests executed in the video attached to this read me.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+N/A
 
 ## Credits
 
@@ -22,9 +16,6 @@ I was the sole collaborator
 
 The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
 
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
 
 ## Badges
 
